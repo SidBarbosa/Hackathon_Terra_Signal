@@ -3,14 +3,13 @@ Materials for the Hackathon of a fake Telco Company named Terra Signal. Includes
 
 Grupo 5 :
 
-Sidney 
+Sidney Barbosa
 
-Lucas 
+Lucas Kamikawa
 
-Felipe 
+Felipe Braun
 
-Mateus 
-
+Mateus Pratas
 
 Important Files:
 - ADD_USERS.ipynb: A notebook to help you add other people to your workspace. Can also be done through the GUI.
